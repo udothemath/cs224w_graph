@@ -1,4 +1,4 @@
-.ipynb_checkpoints/*
-.DS_Store
-archive/*
-
+*/*.gz
+*/*.zip
+hw1-bundle/netscience/*
+.vscode/*
