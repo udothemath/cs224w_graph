@@ -1,7 +1,9 @@
 */*.gz
 */*.zip
+*/*.dot
+*/*.png
 hw1-bundle/netscience/*
 .vscode/*
 .ipynb_checkpoints/*
 archive/*
-.DS_Store
+*/.DS_Store
