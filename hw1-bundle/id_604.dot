@@ -1,0 +1,11 @@
+/*****
+id_604
+*****/
+
+graph G {
+  graph [splines=false overlap=false]
+  node  [shape=ellipse, width=0.3, height=0.3, label=""]
+  604 ;
+604;
+  label = "\nid_604\n";  fontsize=24;
+}
