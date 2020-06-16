@@ -3,6 +3,7 @@
 */*.dot
 */*.png
 hw1-bundle/netscience/*
+*/.ipynb_checkopoints/*
 .vscode/*
 .ipynb_checkpoints/*
 archive/*
