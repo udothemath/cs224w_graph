@@ -3,8 +3,9 @@
 */*.dot
 */*.png
 hw1-bundle/netscience/*
-*/.ipynb_checkopoints/*
+*/.ipynb_checkpoints/*
 .vscode/*
 .ipynb_checkpoints/*
 archive/*
+.DS_Store
 */.DS_Store
